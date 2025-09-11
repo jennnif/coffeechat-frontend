@@ -1,0 +1,7 @@
+{
+  "/coffeechat/create/page": "app/coffeechat/create/page.js",
+  "/page": "app/page.js",
+  "/coffeechat/my/page": "app/coffeechat/my/page.js",
+  "/coffeechat/join/page": "app/coffeechat/join/page.js",
+  "/chat/page": "app/chat/page.js"
+}
